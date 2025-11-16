@@ -1,3 +1,6 @@
+<img width="1027" height="474" alt="image" src="https://github.com/user-attachments/assets/fa16713a-25e5-4f91-97f1-88f9d0b8b820" />
+
+
 📊 Sales Dashboard – Excel Project
 🧾 Project Overview
 
